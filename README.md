@@ -48,7 +48,17 @@ Data → Power BI → Visualization → Insights
 ![KNIME Workflow](Images/knime_workflow.png)
 
 ---
+## 📁 Project Structure
 
+walmart-sales-prediction/
+┣ datasets/
+┣ Images/
+┣ walmart sales prediction.knwf
+┣ walmart sales prediction dashboard.pbix
+┣ report.pdf
+┣ readme.md
+
+---
 ## ⚙️ How to Run
 
 1. Open KNIME workflow file
